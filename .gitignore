@@ -1,0 +1,24 @@
+# SQLite
+.vscode/
+*.db
+*.s3db
+*.bat
+*.exp
+*.pdb
+*.dll
+*.a
+*.so
+*.db-shm
+*.db-wal
+package-lock.json
+node_modules/
+build/
+
+# C benchmark binary
+bench/bench
+deno.lock
+bun.lockb
+.DS_Store
+
+# Other
+*.html
